@@ -1,7 +1,7 @@
 
 ![hys_wh](https://github.com/user-attachments/assets/9070730d-36f5-47de-a793-0af3eb3760d2)
 
-## Hello! 👋👋
+## Hello! 👋
 
 
 <!--
